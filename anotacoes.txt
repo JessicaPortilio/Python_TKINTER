@@ -1,0 +1,6 @@
+# Criar um ambiente virtual:
+# python -m venv venv
+# venv\Scripts\activate
+
+# Processamento de imagem
+# pip install pillow
